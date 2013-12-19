@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="start">Start</string>
+	<string name="import_new">Adauga nou</string>
+	<string name="update">Actualizare</string>
+	<string name="manage_quizzes">Administrare</string>
+	<string name="about">Despre</string>
+	<string name="quiz_url">URL test (obligatoriu)</string>
+	<string name="username">Nume (doar restricionat)</string>
+	<string name="password">Parola (doar restrictionat)</string>
+	
+	<string name="import_quiz">Adauga test</string>
+	<string name="edit_quiz">Editare test</string>
+	
+	<string name="import_action">adauga</string>
+	<string name="update_action">actualizeaza</string>
+	<string name="check">verifica</string>
+	<string name="next">continua</string>
+	<string name="skip">urmatoarea</string>
+	<string name="menu">Meniu</string>
+	
+	<string name="results">Rezultate</string>
+	<string name="correct">Corecte</string>
+	<string name="wrong">Gresite</string>
+	<string name="skipped">Omise</string>
+	<string name="time">Timp</string>
+	
+	<string name="about_description">Platforma simpla de teste</string>
+	<string name="official_page">pagina oficiala</string>
+	<string name="by">de</string>
+	
+	<string name="set_default">Seteaza princial</string>
+	<string name="edit">Editeaza</string>
+	<string name="remove">Sterge</string>
+	<string name="cancel">Renunta</string>
+	
+	<string name="error_update">Eroare actualizare</string>
+	<string name="error_url">URL invalid sau serverul nu raspunde</string>
+	<string name="error_server">Serverul nu a raspuns!</string>
+	
+	<string name="error_offline">Esti off-line :(</string>
+	
+	<string name="empty_quiz">Nu exista intrebari in restul actual, incearca sa actualizezi sau adauga un test nou</string>
+	
+	<string name="error_no_response">Serverul nu a raspuns</string>
+</resources>

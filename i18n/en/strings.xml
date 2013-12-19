@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="start">Start</string>
+	<string name="import_new">Import new</string>
+	<string name="update">Update</string>
+	<string name="manage_quizzes">Manage quizzes</string>
+	<string name="about">About</string>
+	<string name="quiz_url">Quiz URL (required)</string>
+	<string name="username">Username (restricted only)</string>
+	<string name="password">Password (restricted only)</string>
+	
+	<string name="import_quiz">Import quiz</string>
+	<string name="edit_quiz">Edit quiz</string>
+	
+	<string name="import_action">import</string>
+	<string name="update_action">update</string>
+	<string name="check">check</string>
+	<string name="next">next</string>
+	<string name="skip">skip</string>
+	<string name="menu">Menu</string>
+	
+	<string name="results">Results</string>
+	<string name="correct">Correct</string>
+	<string name="wrong">Wrong</string>
+	<string name="skipped">Skipped</string>
+	<string name="time">Time</string>
+	
+	<string name="about_description">Simple quiz platform</string>
+	<string name="official_page">official page</string>
+	<string name="by">by</string>
+	
+	<string name="set_default">Set as default</string>
+	<string name="edit">Edit</string>
+	<string name="remove">Remove</string>
+	<string name="cancel">Cancel</string>
+	
+	<string name="error_update">Error updating the quiz</string>
+	<string name="error_url">Invalid URL or server not responding</string>
+	<string name="error_server">Server did not respond!</string>
+	
+	<string name="error_offline">You are off-line :(</string>
+	
+	<string name="empty_quiz">No questions in the current quiz, try update or add a new quiz</string>
+	
+	<string name="error_no_response">Server did not respond</string>
+</resources>
